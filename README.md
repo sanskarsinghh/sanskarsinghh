@@ -1,6 +1,6 @@
 Hi there! My name is Sanskar Singh and I am currently a college student studying Bachelor of Technology at LNCT, Bhopal, India.
 
-I have always had a passion for programming and technology, and I have been fortunate enough to have the opportunity to further explore and develop my skills through various coursework and personal projects. Some of my notable projects on GitHub include my personal portfolio website and my business website "VyaparBadhao"
+I have always had a passion for programming and technology, and I have been fortunate enough to have the opportunity to further explore and develop my skills through various coursework and personal projects. Some of my notable projects on GitHub include my personal portfolio website, TicTacToe game and Snake game.
 
 I am proficient in languages such as CPP and Python and I am always looking to expand my knowledge and learn new technologies.
 
